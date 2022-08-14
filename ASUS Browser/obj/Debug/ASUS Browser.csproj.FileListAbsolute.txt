@@ -1,0 +1,30 @@
+D:\Documentos\Programas de VS\ASUS Browser-Application\ASUS Browser\bin\Debug\ASUS Browser.exe.config
+D:\Documentos\Programas de VS\ASUS Browser-Application\ASUS Browser\bin\Debug\ASUS Browser.exe
+D:\Documentos\Programas de VS\ASUS Browser-Application\ASUS Browser\bin\Debug\ASUS Browser.pdb
+D:\Documentos\Programas de VS\ASUS Browser-Application\ASUS Browser\bin\Debug\EasyTabs.dll
+D:\Documentos\Programas de VS\ASUS Browser-Application\ASUS Browser\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Documentos\Programas de VS\ASUS Browser-Application\ASUS Browser\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Documentos\Programas de VS\ASUS Browser-Application\ASUS Browser\bin\Debug\Svg.dll
+D:\Documentos\Programas de VS\ASUS Browser-Application\ASUS Browser\bin\Debug\Win32Interop.Dwmapi.dll
+D:\Documentos\Programas de VS\ASUS Browser-Application\ASUS Browser\bin\Debug\Win32Interop.Gdi32.dll
+D:\Documentos\Programas de VS\ASUS Browser-Application\ASUS Browser\bin\Debug\Win32Interop.Kernel32.dll
+D:\Documentos\Programas de VS\ASUS Browser-Application\ASUS Browser\bin\Debug\Win32Interop.User32.dll
+D:\Documentos\Programas de VS\ASUS Browser-Application\ASUS Browser\bin\Debug\Win32Interop.Uxtheme.dll
+D:\Documentos\Programas de VS\ASUS Browser-Application\ASUS Browser\bin\Debug\EasyTabs.xml
+D:\Documentos\Programas de VS\ASUS Browser-Application\ASUS Browser\bin\Debug\Svg.pdb
+D:\Documentos\Programas de VS\ASUS Browser-Application\ASUS Browser\bin\Debug\Svg.xml
+D:\Documentos\Programas de VS\ASUS Browser-Application\ASUS Browser\bin\Debug\Win32Interop.Dwmapi.pdb
+D:\Documentos\Programas de VS\ASUS Browser-Application\ASUS Browser\bin\Debug\Win32Interop.Gdi32.pdb
+D:\Documentos\Programas de VS\ASUS Browser-Application\ASUS Browser\bin\Debug\Win32Interop.Gdi32.xml
+D:\Documentos\Programas de VS\ASUS Browser-Application\ASUS Browser\bin\Debug\Win32Interop.Kernel32.pdb
+D:\Documentos\Programas de VS\ASUS Browser-Application\ASUS Browser\bin\Debug\Win32Interop.User32.pdb
+D:\Documentos\Programas de VS\ASUS Browser-Application\ASUS Browser\bin\Debug\Win32Interop.Uxtheme.pdb
+D:\Documentos\Programas de VS\ASUS Browser-Application\ASUS Browser\obj\Debug\ASUS Browser.csproj.AssemblyReference.cache
+D:\Documentos\Programas de VS\ASUS Browser-Application\ASUS Browser\obj\Debug\ASUS_Browser.Properties.Resources.resources
+D:\Documentos\Programas de VS\ASUS Browser-Application\ASUS Browser\obj\Debug\ASUS Browser.csproj.GenerateResource.cache
+D:\Documentos\Programas de VS\ASUS Browser-Application\ASUS Browser\obj\Debug\ASUS Browser.csproj.CoreCompileInputs.cache
+D:\Documentos\Programas de VS\ASUS Browser-Application\ASUS Browser\obj\Debug\ASUS Browser.csproj.CopyComplete
+D:\Documentos\Programas de VS\ASUS Browser-Application\ASUS Browser\obj\Debug\ASUS Browser.exe
+D:\Documentos\Programas de VS\ASUS Browser-Application\ASUS Browser\obj\Debug\ASUS Browser.pdb
+D:\Documentos\Programas de VS\ASUS Browser-Application\ASUS Browser\obj\Debug\ASUS Browser.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Programas de VS\ASUS Browser-Application\ASUS Browser\obj\Debug\ASUS_Browser.FrainerBrowser.resources
